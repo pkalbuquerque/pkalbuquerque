@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub, eu sou o Pedro Albuquerque!
 - 💡 Estou procurando um emprego relacionado a tecnologia e desenvolvimento de software.
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkalbuquerque&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkalbuquerque&theme=dark&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkalbuquerque&theme=dark&show_icons=true)
 
   ## 🎓 Knowledge
   
