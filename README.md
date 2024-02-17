@@ -1,16 +1,13 @@
-### Hi there 👋
+Bem-vindo ao meu perfil do GitHub! Sobre mim
 
-<!--
-**pkalbuquerque/pkalbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Estou no terceiro semestre de Ciência da Computação.
 
-Here are some ideas to get you started:
+🚀 Participei do programa Enta21, onde aprimorei minhas habilidades em Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tenho conhecimento em Python adquirido por meio de cursos online.
+
+Contato 📧 Você pode entrar em contato comigo pelo email pedro.krubniki@gmail.com.
+
+🔭 Aqui no GitHub, você encontrará alguns dos meus projetos pessoais e acadêmicos.
+
+Linguagens e Ferramentas 💡 Tenho experiência em Java, Python, MYSQL, HTML5 e estou sempre aberto a aprender novas tecnologias.
