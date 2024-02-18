@@ -1,7 +1,7 @@
 Bem-vindo ao meu perfil do GitHub, eu sou o Pedro Albuquerque! 
 
 - 👨‍🎓 Estou no terceiro semestre de Ciência da Computação.
-- 🚀 Participei do programa Entra21, onde aprimorei minhas habilidades em Java e desenvolvemos o <a href="https://github.com/DoeETransforme/HelpU">HelpU</a>.
+- 🚀 Participei do programa Entra21, onde aprimorei minhas habilidades em Java e eu e minha equipe desenvolvemos o <a href="https://github.com/DoeETransforme/HelpU">HelpU</a>.
 - 💻 Tenho conhecimento em Python adquirido por meio de cursos online.
 - 📧 Você pode entrar em contato comigo pelo email pedro.krubniki@gmail.com.
 - 🔭 Aqui no GitHub, você encontrará alguns dos meus projetos pessoais e acadêmicos.
