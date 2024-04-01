@@ -1,6 +1,6 @@
 Bem-vindo ao meu perfil do GitHub, eu sou o Pedro Albuquerque! 
 
-- 👨‍🎓 Estou no terceiro semestre de Ciência da Computação.
+- 👨‍🎓 Estudante de Ciência da Computação.
 - 💻 Atualmente estou trabalhando na APR Tech como Programador Júnior
 - 📧 Você pode entrar em contato comigo pelo email pedro.krubniki@gmail.com.
 - 🔭 Aqui no GitHub, você encontrará alguns dos meus projetos acadêmicos e profissionais.
