@@ -1,9 +1,12 @@
-Bem-vindo ao meu perfil do GitHub, eu sou o Pedro Albuquerque! 
+# 👋 Hi! I'm Pedro Albuquerque
 
-- 👨‍🎓 Estudante de Ciência da Computação.
-- 💻 Atualmente estou trabalhando na Senior Sistemas como Software Developer
-- 📧 Você pode entrar em contato comigo pelo email pedro.krubniki@gmail.com.
-- 🔭 Aqui no GitHub, você encontrará alguns dos meus projetos acadêmicos e profissionais.
+Welcome to my GitHub profile!  
+I'm a **Computer Science student** and **Software Developer**, focused on backend development and scalable systems.
+
+- 👨‍🎓 Computer Science student  
+- 💻 Software Developer at **Senior Sistemas**, working with ERP systems and business rules  
+- 🔭 Here you’ll find academic, professional, and experimental projects  
+- 📧 Contact me at: **pedro.krubniki@gmail.com**
   
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkalbuquerque&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkalbuquerque&theme=dark&show_icons=true)
