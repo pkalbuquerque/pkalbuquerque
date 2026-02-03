@@ -38,7 +38,7 @@ Bem-vindo ao meu perfil do GitHub, eu sou o Pedro Albuquerque!
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)&nbsp;
-![PostGreSq](https://img.shields.io/badge/postgresql-black?style=flat&logo=postgresql)&nbsp;
+![PostGreSq](https://img.shields.io/badge/PostGreSql-black?style=flat&logo=postgresql)&nbsp;
 
 </td>
 </tr>
