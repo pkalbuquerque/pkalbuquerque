@@ -8,8 +8,14 @@ I'm a **Computer Science student** and **Software Developer**, focused on backen
 - 🔭 Here you’ll find academic, professional, and experimental projects  
 - 📧 Contact me at: **pedro.krubniki@gmail.com**
   
+---
+
+## 📊 GitHub Stats
+
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkalbuquerque&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkalbuquerque&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkalbuquerque&theme=dark&layout=compact)
+
+---
 
   ## 🎓 Knowledge
   
