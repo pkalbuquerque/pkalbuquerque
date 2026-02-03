@@ -1,8 +1,6 @@
 # 👋 Hi! I'm Pedro Albuquerque
 
 Welcome to my GitHub profile!  
-I'm a **Computer Science student** and **Software Developer**, focused on backend development and scalable systems.
-
 - 👨‍🎓 Computer Science student  
 - 💻 Software Developer at **Senior Sistemas**, working with ERP systems and business rules  
 - 🔭 Here you’ll find academic, professional, and experimental projects  
